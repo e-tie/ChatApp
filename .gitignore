@@ -1,0 +1,6 @@
+### Eclipse ###
+bin/
+.classpath
+.settings/
+### Java ###
+*.class
